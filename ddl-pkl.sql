@@ -102,7 +102,7 @@ player_of_match NUMBER(11)
 
 CREATE TABLE game(
 id NUMBER(11),
-game_id DATE,
+game_date DATE,
 team_id_1 NUMBER(11),
 team_id_2 NUMBER(11),
 venue_id NUMBER(11),
